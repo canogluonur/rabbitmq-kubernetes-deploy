@@ -28,5 +28,5 @@ kubectl apply -f ingress.yaml
 you can enter the following values for the backend to bind.
 
 http://rabbitmq.rabbitmq
-username:quest
-password:quest
+username:guest
+password:guest
